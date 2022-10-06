@@ -2,4 +2,4 @@
  This is the second challenge
 
 ## Gameplay Link:
-https://drive.google.com/drive/folders/1UOait3-_ghteIy0ONFOuK4LuxRT-ES9-?usp=sharing
+https://drive.google.com/file/d/1x4pjtimY3L_aPuNCCXmn1gS1loLDAETo/view?usp=sharing
